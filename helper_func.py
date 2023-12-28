@@ -1,4 +1,4 @@
-#(©)Codexbotz
+#(©)XACT_SERIES
 
 import base64
 import re
